@@ -29,13 +29,14 @@ In this project, you will implement, evaluate, operate, monitor, and evolve a re
 
 **[Streamlit Hosted Movie Recommendation](https://share.streamlit.io/akshaybahadur21/bigdl-movie-rec/main/streamlit-movie-rec.py)**
 
+## Results 📊
+
 ## Team 🏆
 
 - Akshay Bahadur
 - Ayush Agarawal
 
 ## References 🔱
- 
-- The web server component reference the design and code in [ExplainaBoard](https://github.com/neulab/explainaboard_web) project, of which [Chih-Hao Wang](https://github.com/OscarWang114) is a contributor.
 - [Recoomedation System Recitation from Spring 2020](https://github.com/ckaestne/seai/blob/S2020/recitations/06_Collaborative_Filtering.ipynb)
 - [Introduction to Recommender System - Shuyu Luo](https://towardsdatascience.com/intro-to-recommender-system-collaborative-filtering-64a238194a26)
+- [Streamlit](https://streamlit.io/)
