@@ -20,8 +20,16 @@ BigDL is a distributed deep learning library for Apache Spark; with BigDL, users
 In this project, you will implement, evaluate, operate, monitor, and evolve a recommendation service for a scenario of a movie streaming service. As in previous individual assignments, you work with a scenario of a streaming service with about 1 million customers and 27k movies (for comparison, Netflix has about 180 million subscribers and over 300 million estimated users worldwide and about 4000 movies or 13k titles worldwide)
 
 
-### Notebooks
+## Notebooks
 - [Colab BigDL](https://colab.research.google.com/drive/1c-Qh6GHigYbb_8zxjDGbjbx7ivN1UKs4?usp=sharing)
+
+## Execution 🐉
+
+```streamlit run streamlit-movie-rec.py```
+
+**[Streamlit Hosted Movie Recommendation](https://share.streamlit.io/akshaybahadur21/bigdl-movie-rec/main/streamlit-movie-rec.py)**
+
+## Results 📊
 
 ## Team 🏆
 
@@ -29,7 +37,6 @@ In this project, you will implement, evaluate, operate, monitor, and evolve a re
 - Ayush Agarawal
 
 ## References 🔱
- 
-- The web server component reference the design and code in [ExplainaBoard](https://github.com/neulab/explainaboard_web) project, of which [Chih-Hao Wang](https://github.com/OscarWang114) is a contributor.
 - [Recoomedation System Recitation from Spring 2020](https://github.com/ckaestne/seai/blob/S2020/recitations/06_Collaborative_Filtering.ipynb)
 - [Introduction to Recommender System - Shuyu Luo](https://towardsdatascience.com/intro-to-recommender-system-collaborative-filtering-64a238194a26)
+- [Streamlit](https://streamlit.io/)
