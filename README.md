@@ -19,6 +19,13 @@ BigDL is a distributed deep learning library for Apache Spark; with BigDL, users
 ## Description 🍿
 Recommendation System is a filtration program whose prime goal is to predict the “rating” or “preference” of a user towards a domain-specific item or item. 
  In our case, this domain-specific item is a movie, therefore the main focus of our recommendation system is to filter and predict only those movies which a user would prefer given some data about the user him or herself
+ 
+ ## Coursework 🎍
+ This project is part of Machine Learning in Production(11745) - Assignment 3 at Carnegie Mellon University
+ - Coursework : [ML in Production](https://ckaestne.github.io/seai/)
+ - Assignment : [Assignment 3: Software Engineering Tools for Production ML Systems](https://github.com/ckaestne/seai/blob/S2022/assignments/I3_se4ai_tools.md)
+ - GiHub : [BigDL Movie Recommendation System](https://github.com/akshaybahadur21/bigDL-Movie-Rec)
+ - Blog Post : [Medium | BigDL Movie Recommendation](https://github.com/akshaybahadur21/bigDL-Movie-Rec)
 
 
 ## Notebooks
