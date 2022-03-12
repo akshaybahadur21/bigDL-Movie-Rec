@@ -17,7 +17,8 @@ BigDL is a distributed deep learning library for Apache Spark; with BigDL, users
 - **Efficiently scale-out:** BigDL can efficiently scale out to perform data analytics at "Big Data scale", by leveraging Apache Spark (a lightning fast distributed data processing framework), as well as efficient implementations of synchronous SGD and all-reduce communications on Spark.
 
 ## Description 🍿
-In this project, you will implement, evaluate, operate, monitor, and evolve a recommendation service for a scenario of a movie streaming service. As in previous individual assignments, you work with a scenario of a streaming service with about 1 million customers and 27k movies (for comparison, Netflix has about 180 million subscribers and over 300 million estimated users worldwide and about 4000 movies or 13k titles worldwide)
+Recommendation System is a filtration program whose prime goal is to predict the “rating” or “preference” of a user towards a domain-specific item or item. 
+ In our case, this domain-specific item is a movie, therefore the main focus of our recommendation system is to filter and predict only those movies which a user would prefer given some data about the user him or herself
 
 
 ## Notebooks
@@ -36,7 +37,10 @@ In this project, you will implement, evaluate, operate, monitor, and evolve a re
 - Akshay Bahadur
 - Ayush Agarawal
 
+#### Made with ❤️ and 🦙 by Akshay and Ayush
+
+
 ## References 🔱
-- [Recoomedation System Recitation from Spring 2020](https://github.com/ckaestne/seai/blob/S2020/recitations/06_Collaborative_Filtering.ipynb)
+- [Recommendation System Recitation from Spring 2020](https://github.com/ckaestne/seai/blob/S2020/recitations/06_Collaborative_Filtering.ipynb)
 - [Introduction to Recommender System - Shuyu Luo](https://towardsdatascience.com/intro-to-recommender-system-collaborative-filtering-64a238194a26)
 - [Streamlit](https://streamlit.io/)
