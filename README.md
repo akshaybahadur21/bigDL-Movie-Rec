@@ -42,6 +42,7 @@ Recommendation System is a filtration program whose prime goal is to predict the
 <img src="https://github.com/akshaybahadur21/BLOB/blob/master/bigDL-movie1.gif">
 
 - Generating Recommendations
+<img src="https://github.com/akshaybahadur21/BLOB/blob/master/bigDL-Movie2.gif">
 
 ## Team 🏆
 
