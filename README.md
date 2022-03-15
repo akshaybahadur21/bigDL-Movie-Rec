@@ -38,6 +38,10 @@ Recommendation System is a filtration program whose prime goal is to predict the
 **[Streamlit Hosted Movie Recommendation](https://share.streamlit.io/akshaybahadur21/bigdl-movie-rec/main/streamlit-movie-rec.py)**
 
 ## Results 📊
+- Generating Insights from the Data
+<img src="https://github.com/akshaybahadur21/BLOB/blob/master/bigDL-movie1.gif">
+
+- Generating Recommendations
 
 ## Team 🏆
 
