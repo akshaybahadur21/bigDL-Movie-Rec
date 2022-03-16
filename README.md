@@ -26,7 +26,7 @@ Recommendation System is a filtration program whose prime goal is to predict the
  This project is part of Machine Learning in Production(11745) - Assignment 3 at Carnegie Mellon University
  - Coursework : [ML in Production](https://ckaestne.github.io/seai/)
  - Assignment : [Assignment 3: Software Engineering Tools for Production ML Systems](https://github.com/ckaestne/seai/blob/S2022/assignments/I3_se4ai_tools.md)
- - GiHub : [BigDL Movie Recommendation System](https://github.com/akshaybahadur21/bigDL-Movie-Rec)
+ - GitHub : [BigDL Movie Recommendation System](https://github.com/akshaybahadur21/bigDL-Movie-Rec)
  - Blog Post : [Medium | BigDL Movie Recommendation](https://medium.com/@mlprodhw3/bigdl-movie-recommendation-system-3ac04d0e65cb)
 
 
