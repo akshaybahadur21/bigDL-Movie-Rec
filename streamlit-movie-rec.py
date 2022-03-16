@@ -24,7 +24,7 @@ st.subheader('Coursework  🍿')
 st.markdown("""
  This project is part of Machine Learning in Production(11745) - Assignment 3 at Carnegie Mellon University
  - GiHub : [BigDL Movie Recommendation System](https://github.com/akshaybahadur21/bigDL-Movie-Rec)
- - Blog Post : [Medium | BigDL Movie Recommendation](https://github.com/akshaybahadur21/bigDL-Movie-Rec)
+ - Blog Post : [Medium | BigDL Movie Recommendation](https://medium.com/@mlprodhw3/bigdl-movie-recommendation-system-3ac04d0e65cb)
 """)
 
 st.markdown("""
