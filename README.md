@@ -9,6 +9,8 @@
 ---
 
 # BigDL Movie Recommendation System 🎬
+[![](https://img.shields.io/badge/BigDL-MovieRec-brightgreen)](https://share.streamlit.io/akshaybahadur21/bigdl-movie-rec/main/streamlit-movie-rec.py) 
+[![Open In Colab](https://github.com/namanarora97/Data-Science-Notebooks/blob/main/assets/colab-badge.svg)](https://colab.research.google.com/drive/1c-Qh6GHigYbb_8zxjDGbjbx7ivN1UKs4?usp=sharing)
 
 BigDL is a distributed deep learning library for Apache Spark; with BigDL, users can write their deep learning applications as standard Spark programs, which can directly run on top of existing Spark or Hadoop clusters.
 
